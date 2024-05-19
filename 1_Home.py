@@ -1,7 +1,3 @@
-from enum import auto
-from tkinter import font
-from turtle import width
-from altair import LayoutAlign
 import streamlit as st
 
 st.set_page_config(layout="wide")
